@@ -7,6 +7,8 @@ body {
 }
 
 
+
+
 .matchInform {
 	display: grid;
 	grid-template-columns: 7fr 2fr;
@@ -41,12 +43,12 @@ a {
 }
 
 
-#by {
+#outBy {
 
 	padding-left: 40px;
 }
 
-#two {
+#result {
 	display: grid;
 	grid-template-columns: 4fr 3fr;
 	text-decoration: none;
@@ -55,7 +57,7 @@ a {
 
 }
 
-#top {
+#matchName {
 	display: grid;
 	grid-template-columns: 5fr 1fr;
 	background-color: rgb(243, 109, 109);
@@ -76,7 +78,7 @@ a {
 	padding: 10px;
 }
 
-#three {
+#menu {
 	display: grid;
 	grid-template-columns: 8.5fr 1fr 1fr 1fr 1fr 1fr 1fr;
 	text-decoration: none;
